@@ -13,6 +13,10 @@ Paid Course
 
 [Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-eaqXvQpJGd30QLGcOq3pCg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
 
+# Sign up for AWS Skill Builder it has many free courses
+
+[AWS Free Training](https://aws.amazon.com/training/digital/)
+
 # Free courses on AWS Educate and you achieve a certificate when you complete these courses
 
 Getting Started with Cloud Operations
