@@ -1,4 +1,5 @@
-# CloudPractitioner
+# AWS Cloud Practitioner Exam Resources
+
 Free Resources 
 
 [Andrew Brown Course](https://www.youtube.com/watch?v=SOTamWNgDKc&t=27024s)
